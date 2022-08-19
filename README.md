@@ -17,5 +17,5 @@ My name is Sully! Thanks for stopping by my GitHub profile. I am a DevOps Engine
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssulei7&langs_count=10&theme=dark&layout=compact&count_private=true" alt="Sully's Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssulei7&langs_count=10&theme=dark&layout=compact&count_private=true&hide=java" alt="Sully's Stats"/>
 </p>
