@@ -10,7 +10,7 @@ My name is Sully! Thanks for stopping by my GitHub profile. I am a DevOps Engine
 - Kubernetes
 - Advanced Bash Scripting
 
-## Some of my GitHub statistics 👇
+## GitHub Contribution / Language Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ssulei7&theme=dark&count_private=true" alt="Sully's Stats"/>
