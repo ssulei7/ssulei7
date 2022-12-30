@@ -5,10 +5,10 @@ My name is Sully! Thanks for stopping by my GitHub profile. I am a DevOps Engine
 
 ## 🌱 I’m currently learning ...
 - Go 
-- Flutter
-- Ruby 
+- Ruby / Rails 
 - Kubernetes
 - Advanced Bash Scripting
+- Typescript
 
 ## GitHub Contribution / Language Statistics
 
