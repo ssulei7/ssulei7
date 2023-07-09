@@ -7,8 +7,8 @@ My name is Sully! Thanks for stopping by my GitHub profile. I am a DevOps Engine
 - Go 
 - Ruby / Rails 
 - Kubernetes
-- Advanced Bash Scripting
-- Typescript
+- Rust
+- Neovim 
 
 ## GitHub Contribution / Language Statistics
 
