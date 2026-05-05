@@ -1,14 +1,6 @@
 # Hi there 👋
 
-My name is Sully! Thanks for stopping by my GitHub profile. I am a DevOps Engineer with a strong focus around DevOps enablement and implementation of automation. 
-
-
-## 🌱 I’m currently learning ...
-- Go 
-- Ruby / Rails 
-- Kubernetes
-- Rust
-- Neovim 
+My name is Sully! Thanks for stopping by my GitHub profile. I am a DevOps / Platform Engineering consultant with a strong focus around developer experience. 
 
 ## GitHub Contribution / Language Statistics
 
