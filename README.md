@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Sully! Thanks for stopping by my GitHub profile. I am a DevOps / Platform Engineering consultant with a strong focus around developer experience. 
+My name is Sully! Thanks for stopping by my GitHub profile. I am a DevX Platform Engineering consultant. 
 
 A lot of my current open source projects are GitHub tools, check them out below in my pinned section :point_down:
 
